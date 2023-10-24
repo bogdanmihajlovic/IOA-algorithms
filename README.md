@@ -3,7 +3,7 @@
 ## `nTuples(int n, int k)`
 
 ### Description
-This function calculates variations with repetition, specifically n^k.
+This function calculates variations with repetition.
 
 ### Parameters
 - `n` (int): The number of items to choose from.
