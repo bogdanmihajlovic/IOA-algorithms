@@ -1,6 +1,7 @@
-#include "permutation.hpp"
+#include "ioaalgorithms.hpp"
 
 int main(){
-    //nTuples(3, 4);
-    kCombinations(5, 2);     
+    nTuples(5, 5);
+    //kCombinations(5, 2);
+  
 }
